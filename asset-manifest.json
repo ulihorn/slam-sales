@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/slam-sales/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/slam-sales/static/js/main.ada1a6ac.chunk.js",
+    "main.js.map": "/slam-sales/static/js/main.ada1a6ac.chunk.js.map",
+    "runtime-main.js": "/slam-sales/static/js/runtime-main.81f8b820.js",
+    "runtime-main.js.map": "/slam-sales/static/js/runtime-main.81f8b820.js.map",
+    "static/js/2.e43f173c.chunk.js": "/slam-sales/static/js/2.e43f173c.chunk.js",
+    "static/js/2.e43f173c.chunk.js.map": "/slam-sales/static/js/2.e43f173c.chunk.js.map",
+    "static/js/3.778aa475.chunk.js": "/slam-sales/static/js/3.778aa475.chunk.js",
+    "static/js/3.778aa475.chunk.js.map": "/slam-sales/static/js/3.778aa475.chunk.js.map",
+    "index.html": "/slam-sales/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/slam-sales/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.e43f173c.chunk.js.LICENSE.txt": "/slam-sales/static/js/2.e43f173c.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/slam-sales/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.81f8b820.js",
+    "static/js/2.e43f173c.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.ada1a6ac.chunk.js"
+  ]
+}
